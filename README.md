@@ -1,6 +1,6 @@
 
 ## Hello World 👋 It's [pakoy3k!](https://pakoy3k.com)
-I'm a developer in [Python](https://www.python.org), [Bash](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html),[Vuejs](https://vuejs.org), [Kotlin](https://kotlinlang.org) and occasionally  [Golang](https://golang.org).
+Software developer.
 
 <br/>
 
@@ -23,9 +23,9 @@ I'm a developer in [Python](https://www.python.org), [Bash](https://tldp.org/HOW
 ## What i'm up to
 
 - 👯 Problem solving and critical thinking skill.
-- 🤔 I like solve problems, automate process, create tools and teach people technology.
+- Vim enthusiast
+- 🤔 I like solve problems, automate process, create tools for developers and teach people technology.
 - 💬 If your want to contact me yo can pakoy3k@gmail.com
-- 😄 [Jeff Dean's PIN is the last 4 digits of pi] (https://www.cnblogs.com/Kimbing-Ng/p/12843689.html)
 - ⚡ MTG player
 
 <br />
