@@ -22,7 +22,7 @@ Software developer.
 
 ## What i'm up to
 
-- 👯 Problem solving and critical thinking skill.
+- 👯 Problem solver and critical thinking skill.
 - Vim enthusiast
 - 🤔 I like solve problems, automate process, create tools for developers and teach people technology.
 - 💬 If your want to contact me yo can pakoy3k@gmail.com
