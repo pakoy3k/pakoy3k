@@ -16,7 +16,7 @@ Software developer.
 
 <br />
 
-<img align="right" alt="JPG" src="https://avatars.githubusercontent.com/u/1592147?s=400&u=71488717bc22e3c7c2d744ea6e858cc80e4265b9&v=4" width="240px" />
+<img align="right" alt="JPG" src="./spyke.png" width="240px" />
 
 <br />
 
